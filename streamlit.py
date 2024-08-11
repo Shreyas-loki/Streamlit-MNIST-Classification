@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 from PIL import Image
 import numpy as np
+import tensorflow
 from tensorflow import keras
 
 # Title of the app
